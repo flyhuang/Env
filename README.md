@@ -4,7 +4,13 @@
 
 ## [Homebrew](http://brew.sh/)
 
+### Install
+
      $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+     
+### Mirror
+
+Change china mirror to speed up [link](https://www.jianshu.com/p/bea984d27cd2)
     
 ## [Git](https://git-scm.com/)
     
