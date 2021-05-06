@@ -15,17 +15,19 @@
 
 ## [nvm](https://github.com/creationix/nvm)
 
-     $ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | bash
+     $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 
 ## [Node.js](https://nodejs.org/en/) 
 
-     $ nvm install 5.8.0
+     $ nvm install 14.16.1
 
 ## [MongoDB](https://www.mongodb.org/) 
 
-     $ brew install mongodb
+     $ brew tap mongodb/brew
 
-     $ sudo mongodb
+     $ brew install mongodb-community@4.4
+
+[more details for install mongodb](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
 
 ## [redis](http://redis.io/) 
 
@@ -33,9 +35,19 @@
 
      $ redis-server
 
-# Options
-
+## Terminal 
 - [item2](https://www.iterm2.com/)
 - [Oh My Zsh](http://ohmyz.sh/)
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- [autojump](https://github.com/wting/autojump)
+
+## DB Tools
 - [robomongo](https://robomongo.org/)
+
+## Code Editor
 - [Webstrom](https://www.jetbrains.com/webstorm/)
+- [IDEA](https://www.jetbrains.com/idea/)
+
+## Debug Tools
+- [Postman](https://www.postman.com/downloads/)
+
