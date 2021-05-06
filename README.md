@@ -16,6 +16,10 @@
 ## [nvm](https://github.com/creationix/nvm)
 
      $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+     
+## [SDKMAN](https://sdkman.io/)
+     
+[Install Guide Link](https://sdkman.io/install)
 
 ## [Node.js](https://nodejs.org/en/) 
 
