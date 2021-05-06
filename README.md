@@ -38,4 +38,4 @@
 - [item2](https://www.iterm2.com/)
 - [Oh My Zsh](http://ohmyz.sh/)
 - [robomongo](https://robomongo.org/)
-- [Webstrom](https://www.jetbrains.com/webstorm/)  ([identification-server](http://idea.qinxi1992.cn/))
+- [Webstrom](https://www.jetbrains.com/webstorm/)
